@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenparse",
+        "uuid": 60500,
+        "checksum": "lyw3td"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
